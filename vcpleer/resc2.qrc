@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/free-icon-play-buttton-5577228.png</file>
+        <file>image/free-icon-record-button-11542617.png</file>
+        <file>image/button_download_14992.png</file>
+        <file>image/button_upload_15008.png</file>
+    </qresource>
+</RCC>
